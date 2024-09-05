@@ -2,7 +2,7 @@ package com.and.applink
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-class NewActivity : AppCompatActivity() {
+class TestActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
